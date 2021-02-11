@@ -1,3 +1,9 @@
-# Hello_World-
-Hi!
-I am Xinyu Tu, or you could call me Ciny, which I assume is easier for you to read. I like watching movies and animates, my favorite animate is attack on Taitan! I used to like movie more, but not I am a big animate fan!
+|Table|of|content|
+# Introduction
+## Description
+
+|Introduction|
+Hi, I am Xinyu Tu, or you could call me Ciny, which is easier to read for you. I am an international student majored in Business Analytics and Finance at the university of Iowa. I like animals, watching movies, and watching animates. 
+
+|Description|
+I consider myself an enthisastic person, I am always friendly and open-minded to people of different cultural background. 
