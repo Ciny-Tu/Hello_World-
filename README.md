@@ -1,9 +1,7 @@
-|Table|of|content|
+
 # Introduction
+
+Hi ,my name is Xinyu Tu, or you could call me Ciny, which I guess is easier for you to read. I am an international student majoring in Business Analytics and Finance at the University of Iowa. I like watching movies, watching anitames, and animals!
+
 ## Description
-
-|Introduction|
-Hi, I am Xinyu Tu, or you could call me Ciny, which is easier to read for you. I am an international student majored in Business Analytics and Finance at the university of Iowa. I like animals, watching movies, and watching animates. 
-
-|Description|
 I consider myself an enthisastic person, I am always friendly and open-minded to people of different cultural background. 
